@@ -48,10 +48,10 @@ body {
     max-width: 1200px;
     max-height: 673px;
     margin: 0 auto;
-    background-image: url("/foto/gato.jpeg");
+    background-image: url("gato.jpeg");
     background-repeat: no-repeat; 
     background-position: center center; 
-     background-size: auto;
+     background-size: cover;
     
 }
 
